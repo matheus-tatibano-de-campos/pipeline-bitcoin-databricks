@@ -150,4 +150,4 @@ As credenciais não devem ser publicadas no GitHub, incluídas diretamente no c�
 Este projeto foi desenvolvido com o objetivo de aplicar conceitos de Engenharia de Dados na construção de um pipeline automatizado, envolvendo integração com APIs REST, processamento de dados, armazenamento em formato Delta Lake, organização utilizando Unity Catalog e visualização de indicadores.
 
 A solução demonstra a implementação de um fluxo de ingestão e transformação de dados com execução recorrente, preservação histórica e disponibilização das informações para análise.
-![Dashboard do preço do Bitcoin](docs/images/dashboard-bitcoin.jpg)
+
